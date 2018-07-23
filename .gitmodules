@@ -1,0 +1,18 @@
+[submodule "@pii-application"]
+	path = @pii-application
+	url = https://github.com/adrielcodeco/pii-application.git
+[submodule "@pii-di"]
+	path = @pii-di
+	url = https://github.com/adrielcodeco/pii-di.git
+[submodule "@pii-moduleLoader"]
+	path = @pii-moduleLoader
+	url = https://github.com/adrielcodeco/pii-moduleLoader.git
+[submodule "@pii-router-express"]
+	path = @pii-router-express
+	url = https://github.com/adrielcodeco/pii-router-express.git
+[submodule "@pii-scope"]
+	path = @pii-scope
+	url = https://github.com/adrielcodeco/pii-scope.git
+[submodule "@pii-server-express"]
+	path = @pii-server-express
+	url = https://github.com/adrielcodeco/pii-server-express.git

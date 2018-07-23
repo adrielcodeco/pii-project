@@ -1,0 +1,25 @@
+#!/bin/bash
+
+cd ..
+cd @pii-scope
+npm run lint && npm run typecheck && npm run build
+
+cd ..
+cd @pii-moduleLoader
+npm run lint && npm run typecheck && npm run build
+
+cd ..
+cd @pii-di
+npm run lint && npm run typecheck && npm run build
+
+cd ..
+cd @pii-application
+npm run lint && npm run typecheck && npm run build
+
+cd ..
+cd @pii-server-express
+npm run lint && npm run typecheck && npm run build
+
+cd ..
+cd @pii-router-express
+npm run lint && npm run typecheck && npm run build
