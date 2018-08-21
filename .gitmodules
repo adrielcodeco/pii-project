@@ -16,3 +16,6 @@
 [submodule "@pii-server-express"]
 	path = @pii-server-express
 	url = https://github.com/adrielcodeco/pii-server-express.git
+[submodule "@pii-utils"]
+	path = @pii-utils
+	url = https://github.com/adrielcodeco/pii-utils.git
