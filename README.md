@@ -1,6 +1,6 @@
 # [Pii Project](https://github.com/adrielcodeco/pii-project)
 
-Pii Project is a solucion container for Pii modules
+Pii Project is a solution container for Pii modules
 
 * [@pii/scope](##-@pii/scope)
 * [@pii/di](##-@pii/di)
