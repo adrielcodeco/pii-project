@@ -1,0 +1,29 @@
+{
+  "name": "pii-project",
+  "version": "1.0.0",
+  "description": "Pii Project is a solution container for Pii modules",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-prompt": "^1.1.0",
+    "gulp-run-command": "0.0.9",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "clear": "gulp clear",
+    "pkgi": "gulp install-npm",
+    "build": "gulp build",
+    "test": "gulp tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrielcodeco/pii-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrielcodeco/pii-project/issues"
+  },
+  "homepage": "https://github.com/adrielcodeco/pii-project#readme"
+}
